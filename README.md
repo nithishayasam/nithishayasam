@@ -3,7 +3,7 @@
 I'm **Nithisha Yasam**, an aspiring **Machine Learning & Data Science Engineer** and B.E. Computer Science Student at **Vaagdevi Engineering College**. I'm passionate about leveraging data and machine learning to solve real-world problems and creating elegant, efficient solutions.
 
 Currently on a journey to break into ML/Data Science! 🚀
-Learning Data structures and Algorithams📚
+Learning Data structures and Algorithms📚
 
 ---
 
